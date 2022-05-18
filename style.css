@@ -1,0 +1,16 @@
+body 
+{
+background-color: pink;    
+}
+
+h3
+{
+width: 80%;
+font-size: 22px;    
+}
+
+.cameras {
+height: 300px;
+width: 350px;
+border:black;
+}
